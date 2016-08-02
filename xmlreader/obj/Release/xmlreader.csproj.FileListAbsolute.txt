@@ -1,0 +1,7 @@
+C:\Users\Doug\Documents\Visual Studio 2013\Projects\Xmlreader\xmlreader\bin\Release\xmlreader.exe.config
+C:\Users\Doug\Documents\Visual Studio 2013\Projects\Xmlreader\xmlreader\bin\Release\Data\SampleData.xml
+C:\Users\Doug\Documents\Visual Studio 2013\Projects\Xmlreader\xmlreader\bin\Release\xmlreader.exe
+C:\Users\Doug\Documents\Visual Studio 2013\Projects\Xmlreader\xmlreader\bin\Release\xmlreader.pdb
+C:\Users\Doug\Documents\Visual Studio 2013\Projects\Xmlreader\xmlreader\obj\Release\xmlreader.exe
+C:\Users\Doug\Documents\Visual Studio 2013\Projects\Xmlreader\xmlreader\obj\Release\xmlreader.pdb
+C:\Users\Doug\Documents\Visual Studio 2013\Projects\Xmlreader\xmlreader\obj\Release\xmlreader.csprojResolveAssemblyReference.cache
